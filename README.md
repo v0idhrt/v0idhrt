@@ -4,9 +4,9 @@
 
 ![alt text](https://i.pinimg.com/564x/e7/b9/88/e7b9885ce276d83cbe5b6b59502efea9.jpg)
 
-Если вас скучно, можете насладиться шутками(мне не смешно)
+### 🌟 Если вам скучно, наслаждайтесь первосортынми шутками(простите) 🌟
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+[![Jokes Card](https://readme-jokes.vercel.app/api?theme=default&hideBorder&hideAvatar&lang=ru)](https://github.com/ABSphreak/readme-jokes)
 
 </div>
 
